@@ -15,4 +15,4 @@
 *.tex
 *.aux
 *.log
-hair.*
+*.out
