@@ -1,3 +1,5 @@
+*** Remember to fill out huids.txt! ***
+
 List of all files you submitted:
 
 <answer here>
