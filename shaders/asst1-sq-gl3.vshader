@@ -1,3 +1,4 @@
+// If you have shader compilation problems, try changing this to 130
 #version 150
 
 uniform float uVertexScale;
